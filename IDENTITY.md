@@ -8,4 +8,3 @@
 
 ---
 
-Factory reset. Fresh start. No memories, no preferences, no past.
