@@ -8,3 +8,4 @@
 ## Context
 
 - Named their AI NullAgent (goes by Void)
+- Seems to dislike emojis
